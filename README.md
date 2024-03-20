@@ -1,5 +1,7 @@
-# Dice_bot
+# Telegtam bot for rolling dices and generate stats 
+
 DnD staff for IT-wizards!
+This bot for could roll the dice and generate new character's stats using the classic algorithm from the Player's handbook.
 
 For great work of this bot, you need:
 1. TOKEN from @bot_father
