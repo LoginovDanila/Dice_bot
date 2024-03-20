@@ -1,4 +1,4 @@
-# Telegtam bot for rolling dices and generate stats 
+# Telegram bot for rolling dices and generate stats 
 
 DnD staff for IT-wizards!
 This bot for could roll the dice and generate new character's stats using the classic algorithm from the Player's handbook.
